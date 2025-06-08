@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\enigma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:enigma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|c:\\users\\familia_nova\\desktop\\proyectos personales\\enigmapp\\enigmapp 1.1\\enigmapp 1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F1D44-AB8A-4648-ACBB-2D06F3BA44AC}|EnigMapp 1.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:50:00.382Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-08T15:49:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enigma.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Enigma.cs",
+              "RelativeDocumentMoniker": "Enigma.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Enigma.cs",
+              "RelativeToolTip": "Enigma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:38:59.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:12:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:09:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Familia_Nova\\Desktop\\Proyectos personales\\EnigMapp\\EnigMapp 1.1\\EnigMapp 1.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:41:55.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

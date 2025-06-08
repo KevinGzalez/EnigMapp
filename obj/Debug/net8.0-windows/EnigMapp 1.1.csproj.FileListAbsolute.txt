@@ -1,0 +1,32 @@
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.exe
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.deps.json
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.runtimeconfig.json
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.pdb
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp_1._1.Form1.resources
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.csproj.GenerateResource.cache
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.AssemblyInfoInputs.cache
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.AssemblyInfo.cs
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\refint\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.pdb
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.genruntimeconfig.cache
+C:\Users\Familia_Nova\source\repos\EnigMapp 1.1\obj\Debug\net8.0-windows\ref\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.exe
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.deps.json
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.runtimeconfig.json
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\bin\Debug\net8.0-windows\EnigMapp 1.1.pdb
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp_1._1.Form1.resources
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.csproj.GenerateResource.cache
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.AssemblyInfoInputs.cache
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.AssemblyInfo.cs
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\refint\EnigMapp 1.1.dll
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.pdb
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\EnigMapp 1.1.genruntimeconfig.cache
+C:\Users\Familia_Nova\Desktop\Proyectos personales\EnigMapp\EnigMapp 1.1\EnigMapp 1.1\obj\Debug\net8.0-windows\ref\EnigMapp 1.1.dll
