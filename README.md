@@ -11,7 +11,7 @@ La máquina Enigma fue un dispositivo de cifrado utilizado por Alemania durante 
 - Entrada de texto con espacios y signos.
 - Posiciones iniciales de rotores personalizables (ej. "ABC").
 - Simetría en el proceso: usando la misma clave, puedes recuperar el mensaje original.
-- Enlace al perfil del desarrollador a través de un LinkLabel.
+
 
 ## Cómo ejecutar
 
